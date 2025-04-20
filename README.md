@@ -1,22 +1,27 @@
-<h1 align="center">👋 Hola, soy Oscar Andrés</h1>
+<h1 align="center">👋 Hi, I'm Oscar Andrés</h1>
 
 <p align="center">
-  💻 Desarrollador en formación | 🎓 Apasionado por la tecnología | 🚀 Explorando el mundo del código
+  💻 Developer in training | 🎓 Passionate about technology | 🚀 Exploring the world of code
 </p>
 
 ---
 
-### 🌱 Sobre mí
-- 🎯 Actualmente entrenándome en **Análisis y Desarrollo de Software**
--🎮 Me gusta combinar la tecnología con mi pasión por los videojuegos.
--📷 A veces también exploro el diseño visual y la edición multimedia.
--🛠️ Me gusta resolver problemas y buscar soluciones creativas con código.
--📚 Aprendo constantemente mediante cursos, tutoriales y proyectos personales.
--🧩 Soy curioso, autodidacta y siempre estoy buscando cómo mejorar mis habilidades.
+### 🌱 About Me
+- 🎯 Currently training in **Software Analysis and Development**
+- 🎮 I love combining technology with my passion for video games.
+- 📷 I also enjoy visual design and multimedia editing.
+- 🛠️ I like solving problems and finding creative solutions through code.
+- 📚 Constantly learning through courses, tutorials, and personal projects.
+- 🧩 Curious, self-taught, and always looking to improve my skills.
+
+🎯 Short and mid-term goals:
+- ✅ Complete my training as a Full Stack Developer.
+- 🚀 Deploy my first real-world project to production.
+- 🔒 Learn more about web security and best development practices.
 
 ---
 
-### 💡 Tecnologías que estoy usando / aprendiendo
+### 💡 Technologies I'm using / learning
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,18 +33,11 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarAndres2823&show_icons=true&theme=radical" alt="GitHub stats" width="50%" />
-</p>
-
----
-
-### 📫 Conectemos
+### 📫 Let's connect
 - ✉️ Email: oscarandresortiz17@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/andres-toloza-ortiz/
 
-
 ---
 
-> “El éxito es la suma de pequeños esfuerzos repetidos cada día.” – Robert Collier
+> “Success is the sum of small efforts repeated day in and day out.” – Robert Collier
+
