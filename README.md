@@ -8,8 +8,6 @@
 
 ### 🌱 About Me
 - 🎯 Currently training in **Software Analysis and Development**
-- 🎮 I love combining technology with my passion for video games.
-- 📷 I also enjoy visual design and multimedia editing.
 - 🛠️ I like solving problems and finding creative solutions through code.
 - 📚 Constantly learning through courses, tutorials, and personal projects.
 - 🧩 Curious, self-taught, and always looking to improve my skills.
@@ -17,7 +15,6 @@
 🎯 Short and mid-term goals:
 - ✅ Complete my training as a Full Stack Developer.
 - 🚀 Deploy my first real-world project to production.
-- 🔒 Learn more about web security and best development practices.
 
 ---
 
@@ -38,6 +35,4 @@
 - 💼 LinkedIn: www.linkedin.com/in/andres-toloza-ortiz/
 
 ---
-
-> “Success is the sum of small efforts repeated day in and day out.” – Robert Collier
 
