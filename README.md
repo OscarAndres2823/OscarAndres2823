@@ -33,12 +33,10 @@
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 <p align="center">
-  <img alt="Oscar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oscarandresortiz17&show_icons=true&theme=radical" />
+  <img alt="Oscar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OscarAndres2823&show_icons=true&theme=radical" />
 </p>
-
 ---
 
 ### 📫 Let's connect
